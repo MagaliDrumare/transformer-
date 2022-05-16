@@ -1,4 +1,4 @@
 streamlit==0.81.1
 transformers == 3.0.2
-tensorflow == 2.8.0
-pytorch == 1.11.0
+tensorflow == 1.9
+pytorch == 1.9
