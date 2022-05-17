@@ -14,5 +14,7 @@ add_text_sidebar = st.sidebar.title("Menu")
 add_text_sidebar = st.sidebar.text("Just some random text.")
 question = st.text_input(label='Insert a question.')
 text = st.text_area(label="Context")
-x_dict = npl_pipe(context=text,question=question                    
+x_dict = npl_pipe(context=text,question=question) 
+                  
+                  
 
