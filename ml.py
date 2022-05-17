@@ -15,4 +15,4 @@ add_text_sidebar = st.sidebar.text("Just some random text.")
 question = st.text_input(label='Insert a question.')
 text = st.text_area(label="Context")
 x_dict = npl_pipe(context=text,question=question                    
-answer = st.write(f'The answer is {x_dict}')
+
